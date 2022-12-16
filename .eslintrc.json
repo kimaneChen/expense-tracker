@@ -1,7 +1,4 @@
 {
-  "env": {
-    "react-native/react-native": true
-  },
   "extends": [
     "airbnb",
     "airbnb/hooks",
